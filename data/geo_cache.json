@@ -7631,6 +7631,10 @@
     "estado": "",
     "pais": "PT"
   },
+  "promissao promissao||br": {
+    "estado": "SP",
+    "pais": "BR"
+  },
   "prospect park, brooklyn||us": {
     "estado": "NY",
     "pais": "US"
@@ -7945,6 +7949,10 @@
   },
   "rio bonito rio bonito||br": {
     "estado": "RJ",
+    "pais": "BR"
+  },
+  "rio das pedras rio das pedras||br": {
+    "estado": "SP",
     "pais": "BR"
   },
   "rio de janeiro rio de janeiro||br": {
