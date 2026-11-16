@@ -2623,6 +2623,10 @@
     "estado": "DR",
     "pais": "NL"
   },
+  "diksmuide||be": {
+    "estado": "",
+    "pais": "BE"
+  },
   "dilijan||am": {
     "estado": "",
     "pais": "AM"
@@ -3399,6 +3403,10 @@
     "estado": "GE",
     "pais": "CH"
   },
+  "genova||it": {
+    "estado": "",
+    "pais": "IT"
+  },
   "george town, grand cayman||ky": {
     "estado": "",
     "pais": "KY"
@@ -3798,6 +3806,10 @@
   "hanover||us": {
     "estado": "",
     "pais": "DE"
+  },
+  "harpers ferry||us": {
+    "estado": "WV",
+    "pais": "US"
   },
   "harrisburg||us": {
     "estado": "PA",
@@ -4738,6 +4750,10 @@
   "kosice||sk": {
     "estado": "",
     "pais": "SK"
+  },
+  "kota kinabalu, sabah||my": {
+    "estado": "10",
+    "pais": "MY"
   },
   "koycegiz||tr": {
     "estado": "48",
@@ -8623,6 +8639,10 @@
     "estado": "MG",
     "pais": "BR"
   },
+  "sao joao dos angolares||st": {
+    "estado": "",
+    "pais": "ST"
+  },
   "sao joao nepomuceno sao joao nepomuceno||br": {
     "estado": "MG",
     "pais": "BR"
@@ -9418,6 +9438,10 @@
   "tanunda||au": {
     "estado": "SA",
     "pais": "AU"
+  },
+  "taplow||gb": {
+    "estado": "ENG",
+    "pais": "GB"
   },
   "taquarana taquarana||br": {
     "estado": "AL",
@@ -10486,6 +10510,10 @@
   "wevelgem||be": {
     "estado": "",
     "pais": "BE"
+  },
+  "wexford||ie": {
+    "estado": "",
+    "pais": "IE"
   },
   "weymouth||gb": {
     "estado": "ENG",
