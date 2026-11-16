@@ -203,6 +203,10 @@
     "estado": "TN",
     "pais": "US"
   },
+  "alcobendas, madrid||mx": {
+    "estado": "",
+    "pais": "ES"
+  },
   "alcoutim||pt": {
     "estado": "",
     "pais": "PT"
@@ -1218,6 +1222,10 @@
   "boston||us": {
     "estado": "MA",
     "pais": "US"
+  },
+  "bottle lake||nz": {
+    "estado": "CAN",
+    "pais": "NZ"
   },
   "bottrop||de": {
     "estado": "",
