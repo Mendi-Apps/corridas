@@ -347,6 +347,10 @@
     "estado": "",
     "pais": "IT"
   },
+  "andresy||fr": {
+    "estado": "",
+    "pais": "FR"
+  },
   "angeles||ph": {
     "estado": "",
     "pais": "PH"
@@ -703,6 +707,10 @@
     "estado": "",
     "pais": "ES"
   },
+  "bale||ch": {
+    "estado": "BS",
+    "pais": "CH"
+  },
   "balikesir||tr": {
     "estado": "10",
     "pais": "TR"
@@ -790,6 +798,10 @@
   "bar harbor||us": {
     "estado": "ME",
     "pais": "US"
+  },
+  "bar-le-duc||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "barbacena barbacena||br": {
     "estado": "",
@@ -1591,6 +1603,10 @@
     "estado": "RO",
     "pais": "BR"
   },
+  "caen||fr": {
+    "estado": "",
+    "pais": "FR"
+  },
   "cagayan de oro city||ph": {
     "estado": "",
     "pais": "PH"
@@ -1887,6 +1903,10 @@
     "estado": "",
     "pais": "IT"
   },
+  "casteljaloux||fr": {
+    "estado": "",
+    "pais": "FR"
+  },
   "castelldefels||es": {
     "estado": "",
     "pais": "ES"
@@ -2042,6 +2062,10 @@
   "changsha||cn": {
     "estado": "",
     "pais": "CN"
+  },
+  "chantepie||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "chapadinha chapadinha||br": {
     "estado": "SP",
@@ -2446,6 +2470,10 @@
   "crickhowell||gb": {
     "estado": "",
     "pais": "GB"
+  },
+  "crozon||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "cruz das almas cruz das almas||br": {
     "estado": "BA",
@@ -3043,6 +3071,10 @@
     "estado": "CA",
     "pais": "US"
   },
+  "evora||pt": {
+    "estado": "",
+    "pais": "PT"
+  },
   "exeter||gb": {
     "estado": "ENG",
     "pais": "GB"
@@ -3058,6 +3090,10 @@
   "falmouth||us": {
     "estado": "ENG",
     "pais": "GB"
+  },
+  "fangchenggang||cn": {
+    "estado": "",
+    "pais": "CN"
   },
   "farnham common||gb": {
     "estado": "ENG",
@@ -3603,6 +3639,10 @@
     "estado": "",
     "pais": "ES"
   },
+  "grans||fr": {
+    "estado": "",
+    "pais": "FR"
+  },
   "grant park, chicago||us": {
     "estado": "IL",
     "pais": "US"
@@ -3851,6 +3891,10 @@
     "estado": "",
     "pais": "ET"
   },
+  "hayden lake||us": {
+    "estado": "ID",
+    "pais": "US"
+  },
   "hayden||us": {
     "estado": "ID",
     "pais": "US"
@@ -3930,6 +3974,10 @@
   "hilo||us": {
     "estado": "HI",
     "pais": "US"
+  },
+  "hirakata||jp": {
+    "estado": "",
+    "pais": "JP"
   },
   "hisarya||bg": {
     "estado": "16",
@@ -4234,6 +4282,10 @@
   "istanbul||tr": {
     "estado": "34",
     "pais": "TR"
+  },
+  "istres||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "itabaiana||br": {
     "estado": "PB",
@@ -5254,6 +5306,10 @@
   "locarno||ch": {
     "estado": "TI",
     "pais": "CH"
+  },
+  "loches||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "lockport||us": {
     "estado": "NY",
@@ -6879,6 +6935,10 @@
     "estado": "",
     "pais": "CZ"
   },
+  "ostrow wielkopolski||pl": {
+    "estado": "",
+    "pais": "PL"
+  },
   "ottaviano||it": {
     "estado": "CT",
     "pais": "IT"
@@ -6950,6 +7010,10 @@
   "paignton||gb": {
     "estado": "ENG",
     "pais": "GB"
+  },
+  "paimpol||fr": {
+    "estado": "",
+    "pais": "FR"
   },
   "pains pains||br": {
     "estado": "RS",
@@ -7414,6 +7478,10 @@
   "polk city||us": {
     "estado": "IA",
     "pais": "US"
+  },
+  "pollonia||gr": {
+    "estado": "",
+    "pais": "GR"
   },
   "pomerode pomerode||br": {
     "estado": "SC",
@@ -8223,6 +8291,10 @@
     "estado": "",
     "pais": "FR"
   },
+  "saint-hilaire-de-riez||fr": {
+    "estado": "",
+    "pais": "FR"
+  },
   "saint-jorioz||fr": {
     "estado": "",
     "pais": "FR"
@@ -8754,6 +8826,10 @@
   "savannah||us": {
     "estado": "GA",
     "pais": "US"
+  },
+  "savone||it": {
+    "estado": "",
+    "pais": "IT"
   },
   "sceaux||fr": {
     "estado": "",
@@ -10366,6 +10442,10 @@
   "warragul||au": {
     "estado": "VIC",
     "pais": "AU"
+  },
+  "warsaw||pl": {
+    "estado": "",
+    "pais": "PL"
   },
   "warszawa||pl": {
     "estado": "",
