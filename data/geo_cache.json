@@ -3823,6 +3823,10 @@
     "estado": "",
     "pais": "DE"
   },
+  "hampstead||gb": {
+    "estado": "ENG",
+    "pais": "GB"
+  },
   "hampton||us": {
     "estado": "VA",
     "pais": "US"
@@ -3974,6 +3978,10 @@
   "hilo||us": {
     "estado": "HI",
     "pais": "US"
+  },
+  "hinckley and bosworth||gb": {
+    "estado": "ENG",
+    "pais": "GB"
   },
   "hirakata||jp": {
     "estado": "",
@@ -7423,6 +7431,10 @@
     "estado": "",
     "pais": "ES"
   },
+  "plitvicka jezera||hr": {
+    "estado": "",
+    "pais": "HR"
+  },
   "plourhan||fr": {
     "estado": "",
     "pais": "FR"
@@ -7482,6 +7494,10 @@
   "pollonia||gr": {
     "estado": "",
     "pais": "GR"
+  },
+  "pomena||hr": {
+    "estado": "",
+    "pais": "HR"
   },
   "pomerode pomerode||br": {
     "estado": "SC",
@@ -7681,6 +7697,10 @@
   },
   "presidente dutra presidente dutra||br": {
     "estado": "BA",
+    "pais": "BR"
+  },
+  "presidente juscelino||br": {
+    "estado": "MG",
     "pais": "BR"
   },
   "presidente prudente presidente prudente||br": {
@@ -9589,6 +9609,10 @@
   },
   "tenby||gb": {
     "estado": "",
+    "pais": "GB"
+  },
+  "tendring||gb": {
+    "estado": "ENG",
     "pais": "GB"
   },
   "teofilandia||br": {
